@@ -42,5 +42,4 @@ This lab is vulnerable to username enumeration using its response times. To solv
 15. If the protection prevents you from login, intercept and add the X-Forwarded-For header with a numerical value.
 
 
-
-***If you find this useful, STAR the repo as much more will be coming...
+## **If you find this useful, STAR the repo as much more will be coming...**
